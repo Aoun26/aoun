@@ -359,10 +359,9 @@ The project focuses on practical Flutter engineering through state-driven interf
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Aoun26&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=2&column=6" alt="GitHub Trophies"/>
+<img src="https://raw.githubusercontent.com/Aoun26/aoun/main/.github/assets/trophy.svg" alt="GitHub Trophies"/>
 
 </div>
-
 ---
 
 # Contribution Activity

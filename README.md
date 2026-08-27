@@ -19,7 +19,7 @@
 
 <br><br>
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/qulb-e-aoun/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-6366F1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F0720"/>
 </a>
 
@@ -212,7 +212,7 @@ The project demonstrates mobile product engineering through authentication, clou
 
 <br>
 
-A Flutter-based healthcare application concept designed to streamline clinic workflows, appointment management, and digital interaction.
+A Flutter-based healthcare application designed to streamline clinic workflows, appointment management, and digital interaction.
 
 | Category | Details |
 |---|---|
@@ -329,32 +329,6 @@ The project focuses on practical Flutter engineering through state-driven interf
 
 ---
 
-# Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-F59E0B?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0F0720"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-22C55E?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=0F0720"/>
-</a>
-
-<a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-Profile-22C55E?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0F0720"/>
-</a>
-
-<a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-Profile-8B5CF6?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0F0720"/>
-</a>
-
-</div>
-
----
-
-
-
 # GitHub Analytics
 
 <div align="center">
@@ -378,6 +352,8 @@ The project focuses on practical Flutter engineering through state-driven interf
 <img src="https://streak-stats.demolab.com?user=Aoun26&hide_border=true&background=0D0620&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C4B5FD&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak"/>
 
 </div>
+
+---
 
 # GitHub Trophies
 

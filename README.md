@@ -403,7 +403,7 @@ The project focuses on practical Flutter engineering through state-driven interf
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Aoun26/Aoun26/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/Aoun26/aoun/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 
 </div>
 

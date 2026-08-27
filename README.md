@@ -1,27 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0620,35:2E1065,70:4C1D95,100:312E81&height=220&section=header&text=QULB%20E%20AOUN&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%7C%20FLUTTER%20%7C%20AI%20%7C%20FULL%20STACK&descAlignY=58&descSize=16&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0620,35:2E1065,70:4C1D95,100:312E81&height=220&section=header&text=QULB%20E%20AOUN&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=FLUTTER%20DEVELOPER%20%7C%20SOFTWARE%20ENGINEERING%20%7C%20AI%20LEARNER&descAlignY=58&descSize=16&animation=fadeIn"/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Software+Engineer+%7C+Flutter+Developer;AI+%26+GenAI+Application+Developer;Full+Stack+Engineer+%7C+React+%7C+Node.js;Building+Scalable+Digital+Products;Engineering+with+Performance%2C+Security+%26+Impact" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Flutter+Developer+%7C+2%2B+Years+Experience;Building+Cross-Platform+Mobile+Applications;Firebase+%7C+REST+APIs+%7C+Clean+Architecture;Software+Engineering+%26+Product+Development;Currently+Learning+AI+%26+Machine+Learning" alt="Typing SVG"/>
 </a>
 
 <br>
 
 <img src="https://img.shields.io/badge/BSCS-Computer%20Science-7C3AED?style=for-the-badge&labelColor=0F0720"/>
 <img src="https://img.shields.io/badge/Flutter%20%26%20Dart-Developer-6366F1?style=for-the-badge&labelColor=0F0720"/>
-<img src="https://img.shields.io/badge/AI%20%26%20GenAI-Engineering-8B5CF6?style=for-the-badge&labelColor=0F0720"/>
-<img src="https://img.shields.io/badge/Full%20Stack-MERN-4F46E5?style=for-the-badge&labelColor=0F0720"/>
+<img src="https://img.shields.io/badge/Experience-2%2B%20Years-8B5CF6?style=for-the-badge&labelColor=0F0720"/>
+<img src="https://img.shields.io/badge/AI-Learning-4F46E5?style=for-the-badge&labelColor=0F0720"/>
 
 <br><br>
 
 <img src="https://img.shields.io/badge/📍%20Multan%2C%20Pakistan-312E81?style=for-the-badge&labelColor=0F0720"/>
 
 <br><br>
-
-<a href="https://aounfolio.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-aounfolio.netlify.app-A78BFA?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0F0720"/>
-</a>
 
 <a href="https://www.linkedin.com/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-6366F1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F0720"/>
@@ -47,33 +43,36 @@
 
 # About
 
-I am a **Software Engineer and Computer Science undergraduate** focused on building reliable, scalable, and user-centric digital products across mobile, web, and AI-driven environments.
+I am a **Flutter Developer and Computer Science undergraduate** with **2+ years of experience** building cross-platform mobile applications using **Flutter and Dart**.
 
-My primary engineering focus is **Flutter and Dart**, complemented by full-stack development with **React, Node.js, Express, MongoDB, Firebase, and modern web tooling**. I also work with **Generative AI and AI-powered application development**, exploring practical ways to integrate intelligent systems into production-oriented products.
+My primary focus is mobile application engineering — from responsive UI implementation and application architecture to backend integration, authentication, database management, and API-driven functionality.
 
-I approach software development from a **product engineering perspective** — balancing architecture, maintainability, performance, security, usability, and business impact rather than treating development as simply writing code.
+I enjoy turning product ideas into practical, maintainable mobile applications with an emphasis on **clean code, reusable components, performance, scalability, and user experience**.
+
+Alongside Flutter development, I am currently expanding my knowledge in **Artificial Intelligence, Machine Learning, Deep Learning, and Generative AI**, with the goal of combining intelligent technologies with modern mobile applications.
 
 ### Engineering Focus
 
-- 📱 Cross-platform mobile engineering with **Flutter & Dart**
-- 🌐 Full-stack application development with **React, Node.js & MERN**
-- 🤖 AI / Generative AI application development
-- ☁️ Firebase-backed cloud applications and services
-- 🔐 Authentication, authorization, and secure application architecture
-- ⚡ Performance-focused application engineering
-- 🧩 REST APIs, backend architecture, and database integration
-- 🏗️ Scalable and maintainable product architecture
-- 🎯 Product-oriented UI/UX implementation
+- 📱 Flutter & Dart application development
+- 🏗️ Clean and maintainable application architecture
+- 🔥 Firebase Authentication, Firestore, Storage & FCM
+- 🌐 REST API integration
+- 🗄️ Cloud and local data management
+- 🔐 Authentication and secure application workflows
+- ⚡ Performance-oriented mobile development
+- 🎨 Responsive and modern UI implementation
+- 🧩 Reusable Flutter components
+- 🤖 Learning AI, ML, DL & Generative AI
 
 ### Open To
 
-- Software Engineering Opportunities
-- Flutter / Mobile Development
-- Full Stack Development
-- AI / GenAI Application Engineering
-- Freelance & Remote Projects
-- Product Engineering Collaborations
+- Flutter Development
+- Mobile Application Development
+- Remote Software Engineering Opportunities
+- Freelance Flutter Projects
+- Mobile Product Development
 - Open Source Contributions
+- AI + Mobile Application Projects
 
 ---
 
@@ -82,41 +81,61 @@ I approach software development from a **product engineering perspective** — b
 ### Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=dart,python,javascript,typescript,java,cpp,html,css&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=dart,python,javascript,java,cpp&theme=dark"/>
 </p>
 
-### Frontend
+### Mobile Development
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=flutter,react,vite,tailwind&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=flutter,androidstudio&theme=dark"/>
 </p>
 
 ### Backend & Databases
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,firebase,supabase&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=firebase,supabase,mongodb,nodejs,express&theme=dark"/>
 </p>
 
-### Cloud, DevOps & Tooling
+### Tools & Development Environment
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode,androidstudio,docker&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark"/>
 </p>
 
 ---
 
-# AI / ML Expertise
+# Flutter Expertise
 
-| Domain | Proficiency | Details |
+| Area | Proficiency | Details |
 |---|---|---|
-| Generative AI | Advanced | Building and integrating AI-powered applications and intelligent product experiences |
-| AI Application Development | Advanced | Designing practical AI features around real-world software products |
-| Machine Learning | Intermediate | Developing foundational knowledge and applying ML concepts to engineering problems |
-| Deep Learning | Intermediate | Exploring neural-network architectures and modern AI workflows |
-| AI APIs & Integration | Advanced | Integrating AI services into mobile and full-stack applications |
-| Prompt Engineering | Advanced | Designing structured prompts and AI workflows for production use cases |
-| AI + Mobile | Advanced | Combining Flutter applications with intelligent backend and AI capabilities |
-| AI + Full Stack | Advanced | Building end-to-end products with AI-powered application layers |
+| Flutter | Advanced | Cross-platform mobile application development |
+| Dart | Advanced | Object-oriented programming, asynchronous programming and application logic |
+| UI Development | Advanced | Responsive, modern and reusable Flutter interfaces |
+| Firebase | Advanced | Authentication, Firestore, Storage and cloud services |
+| REST APIs | Advanced | API integration and asynchronous data handling |
+| State Management | Intermediate | Managing application state and scalable UI flows |
+| Navigation | Advanced | Structured navigation and multi-screen application flows |
+| Local Storage | Intermediate | Local persistence and offline-oriented application functionality |
+| App Architecture | Intermediate | Modular, maintainable and reusable application structures |
+| Performance | Intermediate | Efficient widgets, optimized UI and responsive application flows |
+
+---
+
+# AI / ML Learning
+
+I am currently expanding my software engineering knowledge into **Artificial Intelligence and Machine Learning**.
+
+| Domain | Status | Current Focus |
+|---|---|---|
+| Artificial Intelligence | Learning | AI fundamentals and practical application development |
+| Machine Learning | Learning | ML concepts, algorithms and model workflows |
+| Deep Learning | Learning | Neural networks and modern deep-learning concepts |
+| Generative AI | Exploring | AI-powered application development and LLM-based workflows |
+| Prompt Engineering | Exploring | Structured prompting and AI application workflows |
+| AI + Flutter | Exploring | Integrating intelligent capabilities into mobile applications |
+| Python for AI | Learning | Python fundamentals for AI/ML development |
+
+> **Goal:** Combine strong Flutter engineering skills with practical AI capabilities to build intelligent mobile products.
 
 ---
 
@@ -127,42 +146,42 @@ I approach software development from a **product engineering perspective** — b
 
 <br>
 
-A modern Flutter-based personal finance application designed around simple expense tracking, income management, balance calculation, and financial analytics.
+A Flutter-based personal finance application designed to help users manage income, expenses, balances, and financial activity through a clean mobile interface.
 
 | Category | Details |
 |---|---|
 | **Stack** | Flutter · Dart · Firebase |
 | **Scale** | Cross-platform mobile application |
-| **Performance** | Lightweight UI with efficient application flows |
-| **Security** | Authentication and protected financial data |
-| **Impact** | Simplifies personal income and expense management |
+| **Performance** | Lightweight and responsive Flutter UI |
+| **Security** | Firebase Authentication and controlled data access |
+| **Impact** | Simplifies personal expense and income management |
 | **Repository** | [View Repository](https://github.com/Aoun26) |
 
 ### Engineering Overview
 
-The application focuses on delivering a polished financial-management experience while maintaining clean application architecture, intuitive navigation, responsive UI, and reliable data handling.
+The application focuses on practical mobile product development with structured data handling, reusable UI components, authentication, financial calculations, and an intuitive user experience.
 
 </details>
 
 <details>
-<summary><b>🛡️ VPN Application — Secure Mobile Networking</b></summary>
+<summary><b>🛡️ VPN Application — Mobile VPN Client</b></summary>
 
 <br>
 
-A Flutter-based VPN application focused on providing a clean mobile interface for VPN connectivity, network information, and connection management.
+A Flutter-based VPN application focused on providing users with a simple interface for managing VPN connections and monitoring network information.
 
 | Category | Details |
 |---|---|
 | **Stack** | Flutter · Dart · OpenVPN |
 | **Scale** | Cross-platform mobile application |
 | **Performance** | Network-aware application architecture |
-| **Security** | VPN tunneling and secure network communication |
-| **Impact** | Simplifies VPN connection management on mobile |
+| **Security** | VPN connectivity and secure network communication |
+| **Impact** | Simplifies VPN connection management |
 | **Repository** | [View Repository](https://github.com/Aoun26) |
 
 ### Engineering Overview
 
-The project combines Flutter UI engineering with native/network-level functionality to create a user-friendly VPN experience while keeping the application architecture modular and maintainable.
+The project combines Flutter UI engineering with VPN functionality, network state handling, connection management, and responsive mobile interfaces.
 
 </details>
 
@@ -171,34 +190,34 @@ The project combines Flutter UI engineering with native/network-level functional
 
 <br>
 
-A full-featured mobile car-rental application designed around vehicle discovery, authentication, booking workflows, and cloud-backed application data.
+A Flutter-based car rental application designed around vehicle discovery, user authentication, booking workflows, and cloud-backed application data.
 
 | Category | Details |
 |---|---|
 | **Stack** | Flutter · Dart · Firebase |
-| **Scale** | Cross-platform booking platform |
+| **Scale** | Cross-platform mobile application |
 | **Performance** | Responsive interfaces and optimized application flows |
 | **Security** | Firebase Authentication and controlled data access |
-| **Impact** | Digitalizes vehicle rental and booking workflows |
+| **Impact** | Digitizes vehicle rental and booking workflows |
 | **Repository** | [View Repository](https://github.com/Aoun26) |
 
 ### Engineering Overview
 
-The application demonstrates product-oriented mobile engineering through authentication, database integration, booking flows, reusable UI components, and cloud-backed application architecture.
+The project demonstrates mobile product engineering through authentication, cloud database integration, reusable UI components, booking flows, and structured application architecture.
 
 </details>
 
 <details>
-<summary><b>🏥 Clinic Management Application — QuickClinic</b></summary>
+<summary><b>🏥 QuickClinic — Clinic Management Application</b></summary>
 
 <br>
 
-A healthcare-oriented application designed to streamline clinic workflows, appointment management, and digital interaction between users and healthcare services.
+A Flutter-based healthcare application concept designed to streamline clinic workflows, appointment management, and digital interaction.
 
 | Category | Details |
 |---|---|
 | **Stack** | Flutter · Dart · Firebase |
-| **Scale** | Healthcare management application |
+| **Scale** | Healthcare-focused mobile application |
 | **Performance** | Responsive and structured application workflows |
 | **Security** | Authentication and controlled cloud data access |
 | **Impact** | Digitizes clinic and appointment workflows |
@@ -206,29 +225,29 @@ A healthcare-oriented application designed to streamline clinic workflows, appoi
 
 ### Engineering Overview
 
-QuickClinic focuses on transforming traditional clinic processes into a structured digital experience through mobile-first interfaces, cloud integration, authentication, and scalable application patterns.
+QuickClinic focuses on transforming traditional clinic processes into a structured mobile experience through authentication, cloud integration, appointment workflows, and reusable application components.
 
 </details>
 
 <details>
-<summary><b>🛒 Retail Hub — E-Commerce Platform</b></summary>
+<summary><b>🛒 Retail Hub — E-Commerce Mobile Application</b></summary>
 
 <br>
 
-An e-commerce product designed around digital retail workflows, product discovery, customer interaction, and scalable application architecture.
+A Flutter-based e-commerce application focused on product discovery, digital retail workflows, customer interaction, and cloud-backed application functionality.
 
 | Category | Details |
 |---|---|
 | **Stack** | Flutter · Dart · Firebase |
-| **Scale** | E-commerce application |
-| **Performance** | Component-based and responsive UI architecture |
+| **Scale** | Cross-platform e-commerce application |
+| **Performance** | Component-based and responsive UI |
 | **Security** | Authentication and controlled backend access |
-| **Impact** | Provides a digital retail experience |
+| **Impact** | Provides a structured mobile shopping experience |
 | **Repository** | [View Repository](https://github.com/Aoun26) |
 
 ### Engineering Overview
 
-Retail Hub demonstrates practical product engineering through e-commerce-oriented user flows, backend integration, responsive interfaces, and modular mobile application architecture.
+Retail Hub demonstrates practical Flutter development through e-commerce interfaces, backend integration, authentication, product-oriented UI flows, and modular application design.
 
 </details>
 
@@ -237,7 +256,7 @@ Retail Hub demonstrates practical product engineering through e-commerce-oriente
 
 <br>
 
-A productivity-focused application designed to track working sessions, monitor time usage, and provide structured visibility into productivity.
+A Flutter productivity application designed to track working sessions and provide users with a structured view of their time usage.
 
 | Category | Details |
 |---|---|
@@ -250,7 +269,7 @@ A productivity-focused application designed to track working sessions, monitor t
 
 ### Engineering Overview
 
-The project focuses on translating time-management requirements into a clean, practical mobile product with emphasis on usability, maintainability, and efficient state-driven interfaces.
+The project focuses on practical Flutter engineering through state-driven interfaces, time tracking logic, reusable components, and a simple productivity-oriented user experience.
 
 </details>
 
@@ -258,52 +277,29 @@ The project focuses on translating time-management requirements into a clean, pr
 
 # Experience
 
-### Founder & Software Engineer — I-Tech Solutions
-
-**2026 — Present**
-
-Building and developing a software engineering venture focused on modern mobile applications, full-stack products, and AI-enabled digital solutions.
-
-**Scope of Work**
-
-- Architecting and developing Flutter applications
-- Designing responsive and production-oriented interfaces
-- Building full-stack web applications
-- Developing React-based frontend systems
-- Designing Node.js and Express backend services
-- Integrating Firebase and Supabase services
-- Implementing authentication and cloud-backed application workflows
-- Exploring AI and Generative AI product integrations
-- Managing product architecture, development, testing, and deployment
-- Establishing engineering and visual standards for digital products
-
-**Skills**
-
-`Flutter` `Dart` `React` `Node.js` `Express` `MongoDB` `Firebase` `Supabase` `REST APIs` `AI` `GenAI`
-
----
-
-### Flutter App Developer — Self-Employed
+### Flutter Developer — Independent Development
 
 **2023 — Present**
 
-Developing cross-platform mobile applications with an emphasis on clean architecture, responsive interfaces, backend integration, and practical product development.
+**2+ years of experience** developing cross-platform mobile applications with Flutter and Dart.
 
-**Scope of Work**
+### Scope of Work
 
-- Cross-platform application development
-- Flutter and Dart engineering
-- Firebase integration
-- REST API integration
-- Authentication systems
-- Cloud database integration
-- Responsive UI implementation
-- Application architecture
-- Product-focused development
+- Developing production-oriented Flutter applications
+- Building responsive interfaces for multiple screen sizes
+- Implementing reusable Flutter widgets and components
+- Integrating Firebase services
+- Connecting applications with REST APIs
+- Implementing authentication workflows
+- Working with Firestore and cloud-backed data
+- Managing application state and asynchronous operations
+- Building navigation and multi-screen application flows
+- Debugging and optimizing Flutter applications
+- Translating product requirements into functional mobile experiences
 
-**Skills**
+### Skills
 
-`Flutter` `Dart` `Firebase` `REST API` `Mobile Engineering`
+`Flutter` `Dart` `Firebase` `Firestore` `REST APIs` `Git` `GitHub` `Mobile Development`
 
 ---
 
@@ -316,10 +312,10 @@ Developing cross-platform mobile applications with an emphasis on clean architec
 | **Academic Achievement** | Intermediate — 970 / 1200 |
 | **Academic Achievement** | Matric — 1054 / 1100 |
 | **Academic Achievement** | 9th Grade — 502 / 505 |
-| **Engineering Experience** | 3+ years of web development experience |
-| **Mobile Engineering** | 1+ year of dedicated mobile application development |
-| **AI Engineering** | Experience building and integrating GenAI applications |
-| **Product Engineering** | Multiple mobile, web, cloud, and AI-oriented projects |
+| **Flutter Experience** | 2+ years of Flutter & Dart development |
+| **Web Development** | 3+ years of web development experience |
+| **AI Development** | Currently expanding into AI, ML and Generative AI |
+| **Product Development** | Developed multiple mobile application projects |
 | **Entrepreneurship** | Founder of I-Tech Solutions |
 
 </div>
@@ -338,7 +334,7 @@ Developing cross-platform mobile applications with an emphasis on clean architec
 
 # Coding Profiles
 
-<p align="center">
+<div align="center">
 
 <a href="https://leetcode.com/">
 <img src="https://img.shields.io/badge/LeetCode-Profile-F59E0B?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0F0720"/>
@@ -356,7 +352,7 @@ Developing cross-platform mobile applications with an emphasis on clean architec
 <img src="https://img.shields.io/badge/CodeChef-Profile-8B5CF6?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0F0720"/>
 </a>
 
-</p>
+</div>
 
 ---
 
@@ -365,14 +361,14 @@ Developing cross-platform mobile applications with an emphasis on clean architec
 <div align="center">
 
 <a href="https://github.com/Aoun26">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aoun26&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D0620&title_color=A78BFA&icon_color=8B5CF6&text_color=CBD5E1"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Aoun26&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D0620&title_color=A78BFA&icon_color=8B5CF6&text_color=CBD5E1" alt="GitHub Stats"/>
 </a>
 
 <a href="https://github.com/Aoun26">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aoun26&layout=compact&hide_border=true&langs_count=8&bg_color=0D0620&title_color=A78BFA&text_color=CBD5E1"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aoun26&layout=compact&hide_border=true&langs_count=8&bg_color=0D0620&title_color=A78BFA&text_color=CBD5E1" alt="Top Languages"/>
 </a>
 
-<br>
+<br><br>
 
 <img src="https://streak-stats.demolab.com?user=Aoun26&hide_border=true&background=0D0620&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C4B5FD&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak"/>
 
@@ -414,31 +410,38 @@ Developing cross-platform mobile applications with an emphasis on clean architec
 
 ```yaml
 current_focus:
+
+  primary:
+    - Flutter Development
+    - Dart
+    - Mobile Application Architecture
+    - Firebase Integration
+    - REST API Integration
+
   learning:
-    - Data Structures & Algorithms
-    - Advanced Flutter Architecture
+    - Artificial Intelligence
     - Machine Learning
     - Deep Learning
-    - NestJS
-    - AI Engineering
+    - Generative AI
+    - Python for AI
+    - AI Application Development
 
   building:
-    - Production-grade Flutter applications
-    - Full-stack web platforms
-    - AI-powered applications
-    - I-Tech Solutions digital products
+    - Flutter Mobile Applications
+    - Firebase-powered Applications
+    - AI-assisted Mobile Products
+    - Reusable Flutter Components
 
-  exploring:
-    - Generative AI
-    - AI-native product engineering
-    - Scalable backend architecture
-    - Cloud application development
-    - Modern software architecture
+  improving:
+    - Data Structures & Algorithms
+    - Software Architecture
+    - Application Performance
+    - Clean Code
+    - Problem Solving
 
   open_to:
-    - Remote software engineering opportunities
-    - Flutter development
-    - Full-stack engineering
-    - AI / GenAI projects
-    - Freelance collaborations
-    - Open-source contributions
+    - Flutter Development
+    - Remote Software Engineering
+    - Freelance Mobile Projects
+    - Open Source
+    - AI + Mobile Development

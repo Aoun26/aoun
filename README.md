@@ -309,9 +309,6 @@ The project focuses on practical Flutter engineering through state-driven interf
 
 | Recognition | Details |
 |---|---|
-| **Academic Achievement** | Intermediate — 970 / 1200 |
-| **Academic Achievement** | Matric — 1054 / 1100 |
-| **Academic Achievement** | 9th Grade — 502 / 505 |
 | **Flutter Experience** | 2+ years of Flutter & Dart development |
 | **Web Development** | 3+ years of web development experience |
 | **AI Development** | Currently expanding into AI, ML and Generative AI |
@@ -356,25 +353,31 @@ The project focuses on practical Flutter engineering through state-driven interf
 
 ---
 
+
+
 # GitHub Analytics
 
 <div align="center">
 
-<a href="https://github.com/Aoun26">
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Aoun26&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D0620&title_color=A78BFA&icon_color=8B5CF6&text_color=CBD5E1" alt="GitHub Stats"/>
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aoun26&theme=tokyonight" alt="GitHub Profile Details"/>
 
-<a href="https://github.com/Aoun26">
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aoun26&layout=compact&hide_border=true&langs_count=8&bg_color=0D0620&title_color=A78BFA&text_color=CBD5E1" alt="Top Languages"/>
-</a>
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aoun26&theme=tokyonight" alt="Repositories Per Language"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aoun26&theme=tokyonight" alt="Most Commit Language"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aoun26&theme=tokyonight" alt="GitHub Stats"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aoun26&theme=tokyonight&utcOffset=5" alt="Productive Time"/>
 
 <br><br>
 
 <img src="https://streak-stats.demolab.com?user=Aoun26&hide_border=true&background=0D0620&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C4B5FD&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak"/>
 
 </div>
-
----
 
 # GitHub Trophies
 

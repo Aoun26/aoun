@@ -393,7 +393,7 @@ The project focuses on practical Flutter engineering through state-driven interf
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aoun26&bg_color=0D0620&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&hide_border=true" alt="Contribution Activity Graph"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aoun26&theme=tokyonight" alt="Contribution Activity"/>
 
 </div>
 
